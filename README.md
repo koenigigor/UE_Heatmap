@@ -3,8 +3,7 @@ Generate heatmap images from Json's gathered by [**TavaHeatmap**](https://github
 <br>
 Quickly analyze hot spots, player routes, and behavioral patterns in your game.
 
-![example_paths](https://raw.githubusercontent.com/koenigigor/UE_Heatmap/main/example/example_paths.png)
-
+![example_paths](https://raw.githubusercontent.com/koenigigor/UE_Heatmap/refs/heads/master/example/example_paths.png)
 
 ---
 
@@ -22,7 +21,7 @@ Quickly analyze hot spots, player routes, and behavioral patterns in your game.
 ## Output
 In output folder will be textures in their level folders.
 
-![out_structure](https://raw.githubusercontent.com/koenigigor/UE_Heatmap/main/example/out_structure.png)
+![out_structure](https://raw.githubusercontent.com/koenigigor/UE_Heatmap/refs/heads/master/example/out_structure.png)
 
 
 ---
